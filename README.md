@@ -1,6 +1,7 @@
 # K8s learning
 Done on mac, using minikube, docker, and kubectl
 
+Based on https://github.com/JasonHaley/hello-python
 
 ## Install minikube
 ```
